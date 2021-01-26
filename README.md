@@ -35,6 +35,7 @@ On your index or bio page:
 3. Style a paragraph
 4. Using margins around your photo
 5. Use padding between bullet points
+6. Complete styling your resume to your liking
 
 #### Helpful resources:
 
