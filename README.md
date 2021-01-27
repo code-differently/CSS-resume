@@ -54,7 +54,7 @@ All the CSS code for this should be in your `style.css` file.
 4. Use a mix of universal, class, and ID selectors.
 5. Have an `em` or `rem` font size option.
 
-(Pseudo Class ULs)[https://www.w3schools.com/css/css_pseudo_classes.asp]
+[Pseudo Class ULs](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
 
 ### Part 2b - CSS Styles for Forms
