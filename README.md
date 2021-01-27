@@ -49,7 +49,7 @@ On your index or bio page:
 All the CSS code for this should be in your `style.css` file. 
 
 1. Finish styling the nav menu in the header. Use a `psuedo` class selector to help define the behavior in your nav menu. Change either the background color or the text color when you hover. 
-2. Connect the nav bar header across all pages within your site. Remember, this should use  `<link rel="stylesheet" href="style.css">` in the `<header`
+2. Connect the nav bar header across all pages within your site. Remember, this should use  `<link rel="stylesheet" href="style.css">` in the `<head`
 3. Complete all parts of your resume.
 4. Use a mix of universal, class, and ID selectors.
 5. Have an `em` or `rem` font size option.
